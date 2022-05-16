@@ -38,7 +38,6 @@ def send_dd(content, title):
     } 
     sendData = json.dumps(data)
     response = requests.request("POST", url, data=sendData, headers=header)
-    print(response.text)
 
 def sec():
     timestamp = str(round(time.time() * 1000))
