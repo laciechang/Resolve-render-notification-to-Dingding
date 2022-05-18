@@ -17,7 +17,7 @@ import math
 
 # 请在下方填写你的PUSHDEER信息，注意保留引号
 
-PUSH_KEY = ["PDU10688T9yhU3mxZYzE6kcs7xHA5fTUBT8KUTl6e"]
+PUSH_KEY = ["PDU1SAEDDNSHJA6kcs7xHA5fTUBT8KUTl6e"]
 
 # ---------------------------------------------------------------
 
